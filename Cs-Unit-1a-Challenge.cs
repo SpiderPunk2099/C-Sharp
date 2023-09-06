@@ -6,3 +6,11 @@ Console.WriteLine(myNum);
 
 string name = "Anime";
 Console.WriteLine(name);
+
+int x = 30;
+int y = 6;
+Console.WriteLine(x + y);
+
+int x = 10;
+int y = 6;
+Console.WriteLine(x * y);
