@@ -1,4 +1,4 @@
-# Cs-Sharp
+# C-Sharp
 
 int myNum = 15;
 myNum = 20; // myNum is now 20
